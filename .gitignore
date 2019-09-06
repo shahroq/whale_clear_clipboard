@@ -1,0 +1,7 @@
+.git
+*.vscode
+package-lock.json
+*copy*
+
+_docs/*
+!_docs/to-do.txt
